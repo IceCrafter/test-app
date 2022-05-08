@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="icey.calculator" version="0.1.0">
+  <name>Calculator</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="wax.fabian@gmail.com">
+    John Smith
+  </author>
+  <preference name="EnableDeveloperConsole" value="false" />
+</widget>
