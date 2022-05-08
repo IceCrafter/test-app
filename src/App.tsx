@@ -32,7 +32,9 @@ export class App {
   }
 
   private sendParams = async () => {
+    //@ts-expect-error
     const username = $('#username').first().text;
+    //@ts-expect-error
     const password = $('#password').first().text;
     console.log('user: ', username);
     console.log('pass: ', password)
