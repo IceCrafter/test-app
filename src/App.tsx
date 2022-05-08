@@ -39,7 +39,7 @@ export class App {
 
    
 
-    //await loginRequest(username, password)
+    await loginRequest(username, password)
   };
 
   
